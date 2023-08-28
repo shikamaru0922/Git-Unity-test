@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9847c1285ad129840aea03f34f6075c8, type: 3}
+  m_Name: SpeedUp_M
+  m_EditorClassIdentifier: 
+  spend: 1
+  recover: 1
+  fireGap: 0
+  energy: 5
+  offset: {x: 0, y: 0, z: 0}
+  objtype: 3
+  command: {fileID: 11400000, guid: 89fed5c5699939b40b944ee1b9130295, type: 2}

@@ -1,0 +1,54 @@
+{
+    "1001": {
+        "id": 1001,
+        "name": "DarkTreant",
+        "dmg": 5,
+        "atkDis": 1.5,
+        "atkCD": 1,
+        "maxHP": 100,
+        "moveSpeed": 1.5,
+        "stopDis": 0,
+        "enemyType": "MeleeEnemy",
+        "addPlayerHP": 1,
+        "addPlayerEnergy": 5
+    },
+    "1002": {
+        "id": 1002,
+        "name": "LichCyan",
+        "dmg": 10,
+        "atkDis": 2,
+        "atkCD": 3,
+        "maxHP": 200,
+        "moveSpeed": 2,
+        "stopDis": 0,
+        "enemyType": "MeleeEnemy",
+        "addPlayerHP": 2,
+        "addPlayerEnergy": 6
+    },
+    "1003": {
+        "id": 1003,
+        "name": "OrcSlinger",
+        "dmg": 10,
+        "atkDis": 2,
+        "atkCD": 3,
+        "maxHP": 200,
+        "moveSpeed": 2,
+        "stopDis": 0,
+        "enemyType": "MeleeEnemy",
+        "addPlayerHP": 3,
+        "addPlayerEnergy": 7
+    },
+    "1004": {
+        "id": 1004,
+        "name": "DemonWolf",
+        "dmg": 10,
+        "atkDis": 1,
+        "atkCD": 0.5,
+        "maxHP": 200,
+        "moveSpeed": 5,
+        "stopDis": 0,
+        "enemyType": "MeleeEnemy",
+        "addPlayerHP": 4,
+        "addPlayerEnergy": 8
+    }
+}

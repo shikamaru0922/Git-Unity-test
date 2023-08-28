@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85196c5aac8d8ba4ab67e40b83a6a975, type: 3}
+  m_Name: MyNew Item 3
+  m_EditorClassIdentifier: 
+  itemName: reflect
+  itemIcon: {fileID: 21300000, guid: 7104b6fc461f9ea48919119ca0891f81, type: 3}
+  itemAmount: 1
+  shootObject: {fileID: 11400000, guid: b90d92ce269196b4cb1bf3fa52296e43, type: 2}
+  description: "\u53CD\u5F39\u6B21\u6570+1"

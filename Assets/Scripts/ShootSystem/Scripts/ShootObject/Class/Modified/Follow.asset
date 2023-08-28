@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9847c1285ad129840aea03f34f6075c8, type: 3}
+  m_Name: Follow
+  m_EditorClassIdentifier: 
+  spend: 1
+  recover: 1
+  fireGap: 0.1
+  energy: 10
+  offset: {x: 0, y: 0, z: 0}
+  objtype: 3
+  command: {fileID: 11400000, guid: 7bf274c8a84d0704db4b9896d30e0290, type: 2}

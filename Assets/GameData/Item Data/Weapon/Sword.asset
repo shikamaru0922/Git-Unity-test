@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11323822618848f4c9d21fc53e847f87, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  ItemType: 1
+  itemName: Sword
+  itemIcon: {fileID: 21300000, guid: 3e7760c6237bc714997318bd0be9a767, type: 3}
+  itemAmount: 1
+  description: This is the best sword in this countryside!
+  stackable: 0
+  useableData: {fileID: 11400000, guid: aa386ded2933d6145856e5b143491d82, type: 2}
+  weaponPrefab: {fileID: 100000, guid: f8c2d6a0ce3bc2d40b090cd67dd23862, type: 3}
+  weaponData: {fileID: 11400000, guid: 6942d98ee4ad49e45b549562d17c6988, type: 2}
+  weaponAnimator: {fileID: 22100000, guid: 4c32787bf0bddbd4b8304ce203c69a7c, type: 2}

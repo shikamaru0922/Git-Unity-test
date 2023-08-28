@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Test/BasicSence.unity
+    guid: a9237b58ec8e164428950c325b0e235f
+  - enabled: 1
+    path: Assets/Scenes/Level1/level1_SiFi.unity
+    guid: 29f02c1619a25494db6c634fe89c7f61
+  - enabled: 1
+    path: Assets/Scenes/Level1/SIFI_Boss_NewUpdate.unity
+    guid: 9d791e6bfd0767446a4ff31c058b37d0
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: b6950e311429e2847a2cd2087ba70683
+  - enabled: 1
+    path: Assets/Scenes/A.unity
+    guid: 870df2986abddfe40bd15b7fb540430d
+  m_configObjects: {}

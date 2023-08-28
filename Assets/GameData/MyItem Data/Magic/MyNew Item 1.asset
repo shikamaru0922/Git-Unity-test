@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85196c5aac8d8ba4ab67e40b83a6a975, type: 3}
+  m_Name: MyNew Item 1
+  m_EditorClassIdentifier: 
+  itemName: Explosion
+  itemIcon: {fileID: 21300000, guid: 72ea2787c3a280e428c7cb3234d9dbc6, type: 3}
+  itemAmount: 1
+  shootObject: {fileID: 11400000, guid: c7982c7b4395e4241abca6d846d74e75, type: 2}
+  description: "\u9759\u6001\u7206\u70B8"
